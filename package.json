@@ -1,0 +1,11 @@
+{
+	"name": "yomikata",
+	"version": "1.0.0",
+	"description": "漢字の読み方",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC"
+}
